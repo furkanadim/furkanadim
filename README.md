@@ -1,5 +1,5 @@
 # 💫 About Me:
-!! Hi there 👋<br>
+### Hi there 👋 
 
 
 ## 🌐 Socials:
